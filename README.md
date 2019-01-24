@@ -1,0 +1,2 @@
+# BoomerBot
+Simple discord bot
